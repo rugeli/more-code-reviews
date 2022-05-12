@@ -30,7 +30,7 @@ def test_returns_0_1_for_3_3_with_target_6():
     n = [3, 3]
     t = 6
 
-    # Act
+    # Happy
     answer = twoSum(n, t)
 
     # Assert
